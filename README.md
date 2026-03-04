@@ -7,4 +7,4 @@
 
 E-mail: lzw24@mails.tsinghua.edu.cn
 
-Tips for myself: Do not forget to **backup** after significant writing
+Tips for myself: Do not forget to **BACKUP** after significant writing
