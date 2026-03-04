@@ -1,18 +1,18 @@
-## Bioinfomatics Learning Schedule
-### Part I Programming Skills
+# Bioinfomatics Learning Schedule
+## Part I Programming Skills
 |Week|Topic|Detail Pathway|
 |:---:|:---:|:---:|
 |1-2|Linux Basic|Tutorial:<br>[Part I. 1.1 Linux - Basics](https://book.ncrnalab.org/teaching/part-i.-programming-skills/1.linux/1.1.linux-basic-command)<br><br>[Video Watching](https://cloud.tsinghua.edu.cn/d/82e9fca41d634ce6b5df/?p=%2FPart%20I.%20Basic%20Skills%2F1.%20Linux&mode=list):<br>Linux <br>How to use Linux-1.Useful comma<br>How to use Linux-2.Tips<br><br>Other Material:<br>101 计划《生物信息学》 Ch13<br>《鸟哥的Linux私房菜－基础学习篇》 Ch5, 7, 9, 10, 11, 25|
 |3-4|Linux Bash|Tutorial:<br>[Part I. 1.3 Linux - Bash](https://book.ncrnalab.org/teaching/part-i.-programming-skills/1.linux/1.3.linux-bash)<br><br>Video Watching:<br>[Shell脚本编程案例](https://www.bilibili.com/video/BV1jJ41137kD/?from=search&seid=15336304791920657641) <br>[Shell脚本编程视频系列](https://www.bilibili.com/video/BV1H7411s7xH/?from=search&seid=500577279179157451&vd_source=c43987d9cddbaf514ad190758cf107fc)<br><br>Other Material:<br>《Bioinformatics Data Skills》Ch3, 6, 7, 12|
 |5-7|R - Basics|Tutorial:<br>[Part I. 2.1 R - Basics](https://book.ncrnalab.org/teaching/part-i.-programming-skills/2.r/2.1.r-basics)<br><br>Video Watching:<br>[R语言系统教程 25节](https://www.bilibili.com/video/BV1yt411y769/?p=8&vd_source=c43987d9cddbaf514ad190758cf107fc) <br>[R语言基础课程 6讲](https://www.bilibili.com/video/av73034243/?vd_source=f22405cd92f1cbd10bad64a1c84083ea)<br>[How to use R - ZJL](https://cloud.tsinghua.edu.cn/d/82e9fca41d634ce6b5df/?p=%2FPart%20I.%20Basic%20Skills%2F2.%20R&mode=list)<br><br>Other Material:<br>101 计划《生物信息学》Ch13
 |8-12|R - Plot|Tutorial:<br>[Part I. 2.2 Plot with R](https://book.ncrnalab.org/teaching/part-i.-programming-skills/2.r/2.2.plots-with-r)<br><br>Video Watching:<br>[R语言绘图ggplot2教程 9讲](https://www.bilibili.com/video/av327681672/?vd_source=f22405cd92f1cbd10bad64a1c84083ea) <br><br>Other Material:《Bioinformatics Data Skills》Ch8, 9
-### Part II Basic Analyses
+## Part II Basic Analyses
 |Week|Topic|Detail Pathway|
 |:---:|:---:|:---:|
 |2|Sequence Alignment & Blast|Tutorial:<br>[Part II. 1.Blast](https://book.ncrnalab.org/teaching/part-ii.-basic-analyses/1.seqblast)<br><br>Other Material:<br>101 计划《生物信息学》Ch5|
 |3|Conservation & Evolution|Tutorial:<br>[Part II. 2.Conservation Analysis](https://book.ncrnalab.org/teaching/part-ii.-basic-analyses/2.conservation-analysis)<br><br>Other Material:<br>101 计划《生物信息学》Ch5|
 |4|Genomic Resources|Tutorial:<br>[Appendix II. Databases & Servers](https://book.ncrnalab.org/teaching/appendix/appendix2.databases-servers)<br><br>Other Material:<br>101 计划《生物信息学》Ch4|
-### Part III NGS Data Analyses
+## Part III NGS Data Analyses
 |Week|Topic|Detail Pathway|
 |:---:|:---:|:---:|
 |5|NGS: Next Generation Sequencing & Reads Mapping (Bowtie)|[Tutorial](https://book.ncrnalab.org/teaching/part-iii.-ngs-data-analyses/1.mapping):<br>Part III. 1 Mapping (bowtie)<br>Part III. 1.1 Genome Browser<br>Part III. 1.2 bedtools and samtools<br><br>Other Material:<br>《Bioinformatics Data Skills》Ch10, 11|
@@ -21,7 +21,7 @@
 |8|Clustering & Functional Analysis & RNA Regulation Analyses|Tutorial:<br>[Part II. 3. Function Analysis](https://book.ncrnalab.org/teaching/part-ii.-basic-analyses/3.function-analysis)<br>[Part II. 4. Clinical Analysis](https://book.ncrnalab.org/teaching/part-ii.-basic-analyses/4.clinical-analyses)<br>[Part III. 6.RNA Regulations ](https://book.ncrnalab.org/teaching/part-iii.-ngs-data-analyses/6.rna-regulation)<br>[Part III. 7.RNA Regulations](https://book.ncrnalab.org/teaching/part-iii.-ngs-data-analyses/7.rna-regulation-ii)|
 |9|Single Cell Data Analyses & ChIP-seq & CLIP-seq|Tutorial:<br>101 计划 转录组学-教材草稿 & 课程草稿<br>[Part III. 3 ChIP-seq](https://book.ncrnalab.org/teaching/part-iii.-ngs-data-analyses/3.chip-seq)<br>[Part III. 4.1 Sequence Motif](https://book.ncrnalab.org/teaching/part-iii.-ngs-data-analyses/4.motif/sequence_motif)<br>[Part III. 4.2 Structural Motif](https://book.ncrnalab.org/teaching/part-iii.-ngs-data-analyses/4.motif/structure_motif)<br>[Part III. 5.3 CLIP-seq](https://book.ncrnalab.org/teaching/part-iii.-ngs-data-analyses/5.rna-network/clip-seq)<br><br>Other Material:<br>101 计划《生物信息学》Ch11|
 |10|Networking|Tutorial:<br>[Part III. 5.1 co-expression Network](https://book.ncrnalab.org/teaching/part-iii.-ngs-data-analyses/5.rna-network/co_expression)<br>[Part III. 5.2 miRNA target](https://book.ncrnalab.org/teaching/part-iii.-ngs-data-analyses/5.rna-network/mirna-targets)<br><br>Other Material:<br>101 计划《生物信息学》Ch8|
-### Part IV Machine Learning & AI
+## Part IV Machine Learning & AI
 |Week|Topic|Detail Pathway|
 |:---:|:---:|:---:|
 |11|Introduction|Tutorial:<br>[Part IV. 1. Machine Learning Basic](https://book.ncrnalab.org/teaching/part-iv.-machine-learning/1.machine-learning-basics)<br><br>Other Material:<br>《Bioinformatics Data Skills》Ch2, 3|
