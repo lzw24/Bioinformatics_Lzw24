@@ -1,4 +1,11 @@
 # Bioinformatics Learning Schedule
+## 学习要点：
+1. 听课时做好笔记（尽早做到熟练使用Markdown语言以保证记录速度）
+2. 和宿舍（同寝室3人报名此课程）及周边同学积极交流学习，互帮互助
+3. 每周花费约4-5h用于Linux Bash和R的学习、课后作业和Tutorial的练习，具体用时根据小节难度灵活机动，如有多余时间尝试优化代码或多多练习
+4. 使用101计划 生物信息学作为参考书，希望学好这门课
+5. 每次写完代码进行备份
+
 ## Part I Programming Skills
 |Week|Topic|Detail Pathway|
 |:---:|:---:|:---:|
