@@ -6,3 +6,5 @@
   2. Note文件夹下各周的课堂笔记
 
 E-mail: lzw24@mails.tsinghua.edu.cn
+
+Tips for myself: Do not forget to **backup** after significant writing
