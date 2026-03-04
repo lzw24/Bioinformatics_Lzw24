@@ -1,4 +1,4 @@
-# Bioinfomatics
+# Bioinformatics
 ## Bioinfomatics Learning Schedule
 ### Part I Programming Skills
 |Week|Topic|Detail Pathway|
